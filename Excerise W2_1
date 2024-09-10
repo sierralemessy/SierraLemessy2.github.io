@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="mystyle.css">
+        <meta charset="utf-8">
+        <title>Sierra Programming Portfolio</title>
+    </hea>
+    <body>
+        <h1> Sierra's Page</h1>
+        <img src="banner.jpg">
+    </body>
+    <table width="800px">
+        <tr>
+            <td> <a href="index.html" ><img src="home.png"></td>
+            <td> <a href="Aboutme.html"><img src="aboutme.png"></td>
+            <td> <a href="Javascript.html"><img src="js.png"></td>
+        </tr>
+    </table>
+        
+</html>
